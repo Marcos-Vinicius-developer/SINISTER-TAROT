@@ -1,0 +1,7 @@
+.carta{
+    height: 300px;
+    width: 150px;
+    display: inline-block;
+    border-style: solid;
+    margin: 20px;
+}
